@@ -10,3 +10,9 @@ https://github.com/knolleary/pubsubclient
 
 Tiny GPS library can be found from
 https://github.com/mikalhart/TinyGPSPlus
+
+---
+Hardware Used: ESP8266, Ublox Neo-6m GPS module
+Programming IDE : ARduino CC
+Cloud PLatform: IBM cloud
+IBM Services used: IBM Watson IoT Platfrom, Node-Red application
